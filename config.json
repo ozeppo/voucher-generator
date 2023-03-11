@@ -1,0 +1,7 @@
+{
+    "voucher_id": "001",
+    "expire_date": "2023",
+    "voucher_nuber_schema": "%number%/%voucher_id%/%expire_date%",
+    "csv_file_path": "",
+    "voucher_template_path": ""
+}
